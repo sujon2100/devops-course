@@ -3,6 +3,10 @@
 ### Contributors
 
 * Helal Uddin - mhud@kth.se
+Microsoft Certified Azure Solution Architect (Expert)
+https://www.youracclaim.com/badges/a9d19a70-6f35-4a62-b89c-d5008ed3ab94/linked_in_profile 
+AZ-301 Microsoft Azure Architect Design
+https://www.youracclaim.com/badges/6b7e30c5-9469-489f-86a9-d27cb42f2021/linked_in_profile 
 
 ### Description
 
